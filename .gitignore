@@ -109,6 +109,7 @@ local.properties
 # .idea/modules
 # *.iml
 # *.ipr
+.idea/
 
 # CMake
 cmake-build-*/
@@ -272,5 +273,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,intellij,visualstudiocode,eclipse
